@@ -50,6 +50,71 @@ $palette-peak-blue-A200: nth($palette-peak-blue, 12);
 $palette-peak-blue-A400: nth($palette-peak-blue, 13);
 $palette-peak-blue-A700: nth($palette-peak-blue, 14);
 
+$palette-peak-gold:
+rgb(255,255,254)
+rgb(241,226,192)
+rgb(231,205,146)
+rgb(218,179,87)    
+rgb(213,167,62)    
+rgb(200,153,44)
+rgb(175,134,38)
+rgb(150,115,33)
+rgb(125,95,27)
+rgb(100,76,22)
+rgb(255,255,254)
+rgb(241,226,192)
+rgb(213,167,62)
+rgb(150,115,33)
+;
+
+$palette-peak-gold-50: nth($palette-peak-gold, 1);
+$palette-peak-gold-100: nth($palette-peak-gold, 2);
+$palette-peak-gold-200: nth($palette-peak-gold, 3);
+$palette-peak-gold-300: nth($palette-peak-gold, 4);
+$palette-peak-gold-400: nth($palette-peak-gold, 5);
+$palette-peak-gold-500: nth($palette-peak-gold, 6);
+$palette-peak-gold-600: nth($palette-peak-gold, 7);
+$palette-peak-gold-700: nth($palette-peak-gold, 8);
+$palette-peak-gold-800: nth($palette-peak-gold, 9);
+$palette-peak-gold-900: nth($palette-peak-gold, 10);
+$palette-peak-gold-A100: nth($palette-peak-gold, 11);
+$palette-peak-gold-A200: nth($palette-peak-gold, 12);
+$palette-peak-gold-A400: nth($palette-peak-gold, 13);
+$palette-peak-gold-A700: nth($palette-peak-gold, 14);
+
+$palette-peak-red:
+rgb(238,207,205)
+rgb(219,153,148)
+rgb(205,113,106)
+rgb(179,69,60)
+rgb(156,60,53)
+rgb(133,51,45)
+rgb(110,42,37)
+rgb(87,33,30)
+rgb(64,25,22)
+rgb(42,16,14)
+rgb(238,207,205)
+rgb(219,153,148)
+rgb(156,60,53)
+rgb(87,33,30)
+;
+
+$palette-peak-red-50: nth($palette-peak-red, 1);
+$palette-peak-red-100: nth($palette-peak-red, 2);
+$palette-peak-red-200: nth($palette-peak-red, 3);
+$palette-peak-red-300: nth($palette-peak-red, 4);
+$palette-peak-red-400: nth($palette-peak-red, 5);
+$palette-peak-red-500: nth($palette-peak-red, 6);
+$palette-peak-red-600: nth($palette-peak-red, 7);
+$palette-peak-red-700: nth($palette-peak-red, 8);
+$palette-peak-red-800: nth($palette-peak-red, 9);
+$palette-peak-red-900: nth($palette-peak-red, 10);
+$palette-peak-red-A100: nth($palette-peak-red, 11);
+$palette-peak-red-A200: nth($palette-peak-red, 12);
+$palette-peak-red-A400: nth($palette-peak-red, 13);
+$palette-peak-red-A700: nth($palette-peak-red, 14);
+
+
 $palette-red:
 rgb(255, 235, 238)
 rgb(255, 205, 210)
