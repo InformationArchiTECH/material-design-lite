@@ -19,6 +19,37 @@
 // Color order: 50, 100, 200, 300, 400, 500, 600, 700, 800, 900, A100, A200,
 // A400, A700.
 
+$palette-peak-blue:
+rgb(58,222,255)
+rgb(0,197,237)
+rgb(0,150,181)
+rgb(0,91,109)
+rgb(0,65,79)
+rgb(0,40,48)
+rgb(0,14,17)
+rgb(0,0,0)
+rgb(0,0,0)
+rgb(0,0,0)
+rgb(58,222,255)
+rgb(0,197,237)
+rgb(0,65,79)
+rgb(0,0,0);
+
+$palette-peak-blue-50: nth($palette-peak-blue, 1);
+$palette-peak-blue-100: nth($palette-peak-blue, 2);
+$palette-peak-blue-200: nth($palette-peak-blue, 3);
+$palette-peak-blue-300: nth($palette-peak-blue, 4);
+$palette-peak-blue-400: nth($palette-peak-blue, 5);
+$palette-peak-blue-500: nth($palette-peak-blue, 6);
+$palette-peak-blue-600: nth($palette-peak-blue, 7);
+$palette-peak-blue-700: nth($palette-peak-blue, 8);
+$palette-peak-blue-800: nth($palette-peak-blue, 9);
+$palette-peak-blue-900: nth($palette-peak-blue, 10);
+$palette-peak-blue-A100: nth($palette-peak-blue, 11);
+$palette-peak-blue-A200: nth($palette-peak-blue, 12);
+$palette-peak-blue-A400: nth($palette-peak-blue, 13);
+$palette-peak-blue-A700: nth($palette-peak-blue, 14);
+
 $palette-red:
 rgb(255, 235, 238)
 rgb(255, 205, 210)
